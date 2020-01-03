@@ -1,3 +1,12 @@
+/*
+ * @Description: 
+ * @Author: chenxi
+ * @Date: 2020-01-02 16:50:14
+ * @LastEditor: chenxi
+ * @LastEditTime : 2020-01-03 12:40:23
+ * @FilePath: \C_code\TestCode\C.CPP\Practicing\3_jinzhizhuanhuan.c
+ */
+
 //进制转换
 //输入 
 //输入数据包含多个测试实例，
