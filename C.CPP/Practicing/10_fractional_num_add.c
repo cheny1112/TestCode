@@ -3,7 +3,7 @@
  * @Author: cheny
  * @Date: 2020-01-03 17:17:16
  * @LastEditor: cheny
- * @LastEditTime : 2020-01-03 17:29:54
+ * @LastEditTime : 2020-01-03 19:13:38
  * @FilePath: \C_code\TestCode\C.CPP\Practicing\10_fractional_num_add.c
  */
 
@@ -47,7 +47,7 @@ void fractionalNumAdd(int a, int b, int c, int d){
 }
 
 int main(){
-    int a = 1, b = 3, c = 1, d = 9;
+    int a = 3, b = 18, c = 1, d = 9;
     fractionalNumAdd(a, b, c, d);
 
     return 0;
